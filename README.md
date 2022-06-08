@@ -42,6 +42,8 @@
   - Front-end:<br>
     - ReactJS<br>
     - Biblioteca Vite<br>
+    - HTML5<br>
+    - CSS3<br>
 
   - Banco de Dados:<br>
     - MongoDB <br>
