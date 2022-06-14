@@ -9,9 +9,8 @@ function Sobre() {
                 <Header />
                 <Navbar />
             <main>
-                <img className='banner' src="" alt="" />
-                <h1>Sobre Nós!</h1>
-                <p>Texto sobre a livraria...</p>
+                <img className='banner-top' src={"./img/Sobre.png"} alt="Sobre a equipe" />
+ 
             </main>
             <Footer />
         </div>
